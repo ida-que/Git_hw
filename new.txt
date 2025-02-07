@@ -1,0 +1,5 @@
+Full name: Jane Doe
+Age: 27
+Number of pets: 0
+Desired salary: 10000
+
